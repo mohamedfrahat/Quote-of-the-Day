@@ -1,0 +1,28 @@
+h1 {
+   font-size: 80px;
+   margin: 1rem 0px;
+   font-weight:700;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: black;
+}
+button{
+   padding: 2rem 5rem;
+   background-color: blue;
+   color: white;
+   transition: all .2s;
+}
+button:hover{
+
+   background-color: green;
+
+
+}
+div p {
+   font-size: 35px;
+   margin: 35px 0;
+   color: black;
+
+}
+#demo p{
+   font-size: 2rem;
+}
